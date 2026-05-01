@@ -307,3 +307,6 @@ Resources/MapImages
 # Direnv stuff
 .direnv/
 Resources/Prototypes/Entities/Clothing/OuterClothing/.yml
+
+# Buildlogs as text
+shared_build_latest.txt
